@@ -369,3 +369,31 @@ ctx.beginPath();
 ctx.moveTo(590, 460);
 ctx.lineTo(460, 460);
 ctx.stroke();
+
+ctx.font = "italic bold 10px Arial";
+ctx.strokeText("1", 530, 490);
+ctx.font = "italic bold 10px Arial";
+ctx.strokeText("2", 570, 510);
+ctx.font = "italic bold 10px Arial";
+ctx.strokeText("3", 585, 550);
+ctx.font = "italic bold 10px Arial";
+ctx.strokeText("4", 580, 590);
+ctx.font = "italic bold 10px Arial";
+ctx.strokeText("5", 555, 610);
+ctx.font = "italic bold 10px Arial";
+ctx.strokeText("6", 525, 615);
+ctx.font = "italic bold 10px Arial";
+ctx.strokeText("7", 490, 605);
+ctx.font = "italic bold 10px Arial";
+ctx.strokeText("8", 470, 580);
+ctx.font = "italic bold 10px Arial";
+ctx.strokeText("9", 465, 545);
+ctx.font = "italic bold 10px Arial";
+ctx.strokeText("10", 475, 510);
+ctx.font = "italic bold 10px Arial";
+ctx.strokeText("11", 500, 495);
+
+
+
+
+
